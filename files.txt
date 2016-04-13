@@ -1,0 +1,13 @@
+ Li  6
+Created file: Code Location\Li6\Li1004.rpa      ENERGY=  45.0685
+Created file: Code Location\Li6\Li1003.rpa      ENERGY=  11.0309
+Created file: Code Location\Li6\Li1002.rpa      ENERGY=   4.2611
+Created file: Code Location\Li6\Li1001.rpa      ENERGY=  -1.5604
+Created file: Code Location\Li6\Li2001.rpa      ENERGY=   4.8000
+Created file: Code Location\Li6\Li3001.rpa      ENERGY=  -1.2000
+Created file: Code Location\Li6\Li0103.rpa      ENERGY=  45.0694
+Created file: Code Location\Li6\Li0102.rpa      ENERGY=  11.1312
+Created file: Code Location\Li6\Li0101.rpa      ENERGY=  -2.2006
+Created file: Code Location\Li6\Li1101.rpa      ENERGY=   6.0000
+Created file: Code Location\Li6\Li2102.rpa      ENERGY=   5.2566
+Created file: Code Location\Li6\Li2101.rpa      ENERGY=  -0.4566

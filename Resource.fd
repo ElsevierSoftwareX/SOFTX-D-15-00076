@@ -1,0 +1,77 @@
+!
+! C:\Users\Dr.Ali\Desktop\Vfortran2013\PPRPA Code\Resource.fd generated 
+! from C:\Users\Dr.Ali\Desktop\Vfortran2013\PPRPA Code\Resource.h
+!
+      integer, parameter :: IDC_VER3 = 1003
+      integer, parameter :: IDM_ENERGY = 30036
+      integer, parameter :: IDM_SAVE = 30004
+      integer, parameter :: ID_INPUTFILES_HOLE = 30023
+      integer, parameter :: IDM_PARTICLE = 30030
+      integer, parameter :: ID_CALCULATE_CHARGEDENSITYDISTRIBUTION = 300&
+     &61
+      integer, parameter :: IDC_VER4 = 1004
+      integer, parameter :: ID_OTHERFILES = 30039
+      integer, parameter :: ID_INPUTFILES_TRANSITIONDENISITY30056 = 3005&
+     &6
+      integer, parameter :: IDM_RPAE = 30037
+      integer, parameter :: ID_DENSITYFILES_TRANSITIONDENSITY = 30058
+      integer, parameter :: ID_OUTPUTFILES_OTHERFILES = 30038
+      integer, parameter :: IDC_VER5 = 1005
+      integer, parameter :: IID_CDDistributionO = 30060
+      integer, parameter :: ID_OPEN = 30018
+      integer, parameter :: ID_INPUTFILES_DENSITY = 30042
+      integer, parameter :: ID_CACULATE_SPDENSITY = 30045
+      integer, parameter :: IDM_PASTE = 30011
+      integer, parameter :: ID_run_distribution = 30064
+      integer, parameter :: IDM_HOLE = 30031
+      integer, parameter :: ID_DISTRIBUTION = 30062
+      integer, parameter :: ID_OUTPUTFILES_RPAP = 30026
+      integer, parameter :: IDM_HELPCONTENTS = 30012
+      integer, parameter :: IDM_PRINTSETUP = 30007
+      integer, parameter :: ID_INTERACTION = 30041
+      integer, parameter :: ID_INPUTFILES_SINGLE = 30024
+      integer, parameter :: ID_INPUTFILES_GENERAL = 30025
+      integer, parameter :: ID_CACULATE_TRDENSITY = 30046
+      integer, parameter :: ID_DENSITYFILES_SINGLEPARTICLEDNESITY = 3005&
+     &1
+      integer, parameter :: IDM_SAVEAS = 30005
+      integer, parameter :: IDM_GENERAL = 30033
+      integer, parameter :: ID_TrDensity = 30049
+      integer, parameter :: ID_CDdistribution = 30057
+      integer, parameter :: ID_transition = 30063
+      integer, parameter :: IDM_PRINTUP = 30017
+      integer, parameter :: ID_DENSITYFILES_TRANSITIONCHARGEDENSITY = 30&
+     &052
+      integer, parameter :: ID_INPUTFILES_TRANSITIONDENISITY = 30055
+      integer, parameter :: IDM_CUT = 30009
+      integer, parameter :: IDM_COPY = 30010
+      integer, parameter :: IDM_HELPSEARCH = 30013
+      integer, parameter :: IDM__ENERGY = 30035
+      integer, parameter :: ID_OUTPUTFILES_DENSITYFILES = 30050
+      integer, parameter :: ID_RUN_CACULATE = 30044
+      integer, parameter :: ID_SPDNESITY = 30053
+      integer, parameter :: ID_Menu = 30019
+      integer, parameter :: ID_CDDistributionO = 30059
+      integer, parameter :: ID_FILE_OPEN = 30016
+      integer, parameter :: ID_OUTPUTFILES_RPAPE1 = 30028
+      integer, parameter :: IDM_ABOUT = 30015
+      integer, parameter :: ID_OUTPUTFILES_ENERGY1 = 30027
+      integer, parameter :: IDM_EXIT = 30001
+      integer, parameter :: ID_INPUTFILES_INTERACTION = 30040
+      integer, parameter :: IDM_HELPHELP = 30014
+      integer, parameter :: ID_INPUTFILES_PARTICLE = 30022
+      integer, parameter :: ID_PARTICLE = 30029
+      integer, parameter :: IDM_SINGLE = 30032
+      integer, parameter :: IDM_NEW = 30002
+      integer, parameter :: IDM_OPEN = 30003
+      integer, parameter :: IDM_RUN = 30020
+      integer, parameter :: ID_TRCHARGEDENSITY = 30054
+      integer, parameter :: IDM_RPAP = 30034
+      integer, parameter :: IDM_PRINT = 30006
+      integer, parameter :: IDM_UNDO = 30008
+      integer, parameter :: IDC_VER1 = 1001
+      integer, parameter :: Run = 30021
+      integer, parameter :: ID_DENSITY = 30043
+      integer, parameter :: ID_INPUTFILES_TRDENSITYINPUT = 30047
+      integer, parameter :: ID_TRDENSITYINPUT = 30048
+      integer, parameter :: IDC_VER2 = 1002

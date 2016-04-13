@@ -1,0 +1,72 @@
+1
+msdi 1.0
+1.0 1.0 0.0 0.0   msdi ineraction parameters A0,A1,B,C
+
+
+
+
+
+
+
+3	wbp interaction 
+spsdpfmw.int     1.0  two-body matrix elements aleady multiplied by (18/A)**(0.3)
+spsdpfpb.int     1.0
+0s0f1p0.int      1.0				
+spsdpfcm.int     10.0
+
+
+
+
+
+
+
+1		  tin isotopes
+sn132g.int	  1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+msdi 1.0
+1.0 1.0 0.0 0.0   msdi ineraction parameters A0,A1,B,C 
+
+
+
+
+1		  tin isotopes
+sn132g.int	  1.0
+
+
+
+1
+msdi 1.0
+2.4 0.5 0.0 0.0   msdi ineraction parameters A0,A1,B,C    
+
+0.8  1.0  0.7  -.3 msdi ineraction parameters A0,A1,B,C (O18)
+
+
+
+
+

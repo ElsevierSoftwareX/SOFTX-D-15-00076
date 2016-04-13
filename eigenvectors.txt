@@ -1,0 +1,195 @@
+ Li  6
+J= 0  T=0  Parity=+
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 0 T=0 Parity=+  _____
+
+ 
+J= 1  T=0  Parity=+
+ -----------------------------------------------
+Created file: Li6\Li1004.rpa      ENERGY=   45.0685  MM=M1+M2=  4
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  2  -0.21768E-01   0.00000E+00
+  2  3   0.31770E-01   0.00000E+00
+  3  3   0.93724E-02   0.00000E+00
+  1  1  -0.99921E+00   0.00000E+00
+Created file: Li6\Li1003.rpa      ENERGY=   11.0309  MM=M1+M2=  4
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  2   0.53186E-01   0.00000E+00
+  2  3   0.79642E-02   0.00000E+00
+  3  3   0.99852E+00   0.00000E+00
+  1  1   0.84605E-02   0.00000E+00
+Created file: Li6\Li1002.rpa      ENERGY=    4.2611  MM=M1+M2=  4
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  2   0.22804E+00   0.00000E+00
+  2  3   0.97310E+00   0.00000E+00
+  3  3  -0.20126E-01   0.00000E+00
+  1  1   0.25783E-01   0.00000E+00
+Created file: Li6\Li1001.rpa      ENERGY=   -1.5604  MM=M1+M2=  4
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  2   0.97195E+00   0.00000E+00
+  2  3  -0.22803E+00   0.00000E+00
+  3  3  -0.49708E-01   0.00000E+00
+  1  1  -0.28890E-01   0.00000E+00
+____ END FOR J= 1 T=0 Parity=+  _____
+
+ 
+J= 2  T=0  Parity=+
+ -----------------------------------------------
+Created file: Li6\Li2001.rpa      ENERGY=    4.8000  MM=M1+M2=  1
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  3   0.10000E+01   0.00000E+00
+____ END FOR J= 2 T=0 Parity=+  _____
+
+ 
+J= 3  T=0  Parity=+
+ -----------------------------------------------
+Created file: Li6\Li3001.rpa      ENERGY=   -1.2000  MM=M1+M2=  1
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  2   0.10000E+01   0.00000E+00
+____ END FOR J= 3 T=0 Parity=+  _____
+
+ 
+J= 0  T=0  Parity=+
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 0 T=0 Parity=+  _____
+
+ 
+J= 1  T=0  Parity=+
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 1 T=0 Parity=+  _____
+
+ 
+J= 2  T=0  Parity=+
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 2 T=0 Parity=+  _____
+
+ 
+J= 3  T=0  Parity=+
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 3 T=0 Parity=+  _____
+
+ 
+J= 0  T=0  Parity=-
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 0 T=0 Parity=-  _____
+
+ 
+J= 1  T=0  Parity=-
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 1 T=0 Parity=-  _____
+
+ 
+J= 2  T=0  Parity=-
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 2 T=0 Parity=-  _____
+
+ 
+J= 3  T=0  Parity=-
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 3 T=0 Parity=-  _____
+
+ 
+J= 0  T=1  Parity=+
+ -----------------------------------------------
+Created file: Li6\Li0103.rpa      ENERGY=   45.0694  MM=M1+M2=  3
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  2   0.00000E+00  -0.29176E-01
+  3  3   0.00000E+00  -0.28117E-01
+  1  1   0.00000E+00   0.99918E+00
+Created file: Li6\Li0102.rpa      ENERGY=   11.1312  MM=M1+M2=  3
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  2   0.00000E+00  -0.10968E+00
+  3  3   0.00000E+00   0.99366E+00
+  1  1   0.00000E+00   0.24759E-01
+Created file: Li6\Li0101.rpa      ENERGY=   -2.2006  MM=M1+M2=  3
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  2   0.00000E+00   0.99354E+00
+  3  3   0.00000E+00   0.10887E+00
+  1  1   0.00000E+00   0.32075E-01
+____ END FOR J= 0 T=1 Parity=+  _____
+
+ 
+J= 1  T=1  Parity=+
+ -----------------------------------------------
+Created file: Li6\Li1101.rpa      ENERGY=    6.0000  MM=M1+M2=  1
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  3   0.00000E+00   0.10000E+01
+____ END FOR J= 1 T=1 Parity=+  _____
+
+ 
+J= 2  T=1  Parity=+
+ -----------------------------------------------
+Created file: Li6\Li2102.rpa      ENERGY=    5.2566  MM=M1+M2=  2
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  2   0.00000E+00  -0.99509E-01
+  2  3   0.00000E+00   0.99504E+00
+Created file: Li6\Li2101.rpa      ENERGY=   -0.4566  MM=M1+M2=  2
+  a  b   Vectors(T=0)  Vectors(T=1)
+  2  2   0.00000E+00   0.99504E+00
+  2  3   0.00000E+00   0.99509E-01
+____ END FOR J= 2 T=1 Parity=+  _____
+
+ 
+J= 3  T=1  Parity=+
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 3 T=1 Parity=+  _____
+
+ 
+J= 0  T=1  Parity=+
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 0 T=1 Parity=+  _____
+
+ 
+J= 1  T=1  Parity=+
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 1 T=1 Parity=+  _____
+
+ 
+J= 2  T=1  Parity=+
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 2 T=1 Parity=+  _____
+
+ 
+J= 3  T=1  Parity=+
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 3 T=1 Parity=+  _____
+
+ 
+J= 0  T=1  Parity=-
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 0 T=1 Parity=-  _____
+
+ 
+J= 1  T=1  Parity=-
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 1 T=1 Parity=-  _____
+
+ 
+J= 2  T=1  Parity=-
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 2 T=1 Parity=-  _____
+
+ 
+J= 3  T=1  Parity=-
+ -----------------------------------------------
+ There are no possible states
+____ END FOR J= 3 T=1 Parity=-  _____
+
+ 

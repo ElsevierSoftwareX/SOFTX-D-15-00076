@@ -1,0 +1,13 @@
+1 0 1.7 7                  (n,l,brms,rmax) calculate HO wf and single-state probability density
+1                          1=read plot parametes, 0=skip plot
+1			   plot 0=plot Function rR, 1=plot density (rR)^2
+1s Radial HO Density     		                    		
+r(fm)		            				 			
+Density in (1/fm)		            		
+1                                option: 0=automatic graph parameters, 1=input parameters
+0.0 10.0 0.0 1.0 0.0 0.6 0.0 0.1  XA, XE, XOR, XSTEP, YA, YE, YOR, YSTEP
+-1 1			         XNDIG, YNDIG (number of digits after the decimal point displayed in labels: -1,0,1,2,..
+1                                1=grid on, 0=grid off
+xwin                             file type: xwin (on screen),pdf,eps,ps,gif,tiff,png,bmp
+red			         color: red,blue,fore(black),green,yellow
+1   10			         tcik(0=off and 1=on), No of ticks

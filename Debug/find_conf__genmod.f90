@@ -1,0 +1,10 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Fri May 08 18:48:48 2015
+        MODULE FIND_CONF__genmod
+          INTERFACE 
+            SUBROUTINE FIND_CONF(FILENAME2,JN,IU1)
+              CHARACTER(LEN=12) :: FILENAME2
+              INTEGER(KIND=4) :: JN
+              INTEGER(KIND=4) :: IU1
+            END SUBROUTINE FIND_CONF
+          END INTERFACE 
+        END MODULE FIND_CONF__genmod

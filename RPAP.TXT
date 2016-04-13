@@ -1,0 +1,1033 @@
+ F- 18
+J= 0  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 0 T=0 Parity=+  _____
+
+ 
+ 
+J= 1  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ (1d 5/2)(1d 5/2)    4  4
+ (1d 5/2)(1d 3/2)    4  6
+ (2s 1/2)(2s 1/2)    5  5
+ (2s 1/2)(1d 3/2)    5  6
+ (1d 3/2)(1d 3/2)    6  6
+ 
+ 
+ 
+ 
+ Sub-Matrix A
+    -9.52810     0.00000     0.72210     1.10260    -1.17560
+     0.00000    -7.11200     0.00000     0.00000     0.00000
+     0.72210     0.00000     1.87890    -0.39830     0.02750
+     1.10260     0.00000    -0.39830    -5.81000    -1.25010
+    -1.17560     0.00000     0.02750    -1.25010    -9.59080
+ 
+ Sub-Matrix C
+ 
+ Sub-Matrix B
+
+
+
+
+
+ 
+ FINAL MATRIX
+    -9.52810     0.00000     0.72210     1.10260    -1.17560
+     0.00000    -7.11200     0.00000     0.00000     0.00000
+     0.72210     0.00000     1.87890    -0.39830     0.02750
+     1.10260     0.00000    -0.39830    -5.81000    -1.25010
+    -1.17560     0.00000     0.02750    -1.25010    -9.59080
+ 
+____ END FOR J= 1 T=0 Parity=+  _____
+
+ 
+ 
+J= 2  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ (1d 5/2)(2s 1/2)    4  5
+ (1d 5/2)(1d 3/2)    4  6
+ (2s 1/2)(1d 3/2)    5  6
+ 
+ 
+ 
+ 
+ Sub-Matrix A
+    -6.12630     0.09680     0.28320
+     0.09680    -8.55940     2.06640
+     0.28320     2.06640    -3.33640
+ 
+ Sub-Matrix C
+ 
+ Sub-Matrix B
+
+
+
+ 
+ FINAL MATRIX
+    -6.12630     0.09680     0.28320
+     0.09680    -8.55940     2.06640
+     0.28320     2.06640    -3.33640
+ 
+____ END FOR J= 2 T=0 Parity=+  _____
+
+ 
+ 
+J= 3  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ (1d 5/2)(1d 5/2)    4  4
+ (1d 5/2)(2s 1/2)    4  5
+ (1d 5/2)(1d 3/2)    4  6
+ (1d 3/2)(1d 3/2)    6  6
+ 
+ 
+ 
+ 
+ Sub-Matrix A
+    -9.39720    -2.22160     1.24200     0.00000
+    -2.22160    -2.83870    -1.20320     0.00000
+     1.24200    -1.20320   -10.97180     0.00000
+     0.00000     0.00000     0.00000    -6.32800
+ 
+ Sub-Matrix C
+ 
+ Sub-Matrix B
+
+
+
+
+ 
+ FINAL MATRIX
+    -9.39720    -2.22160     1.24200     0.00000
+    -2.22160    -2.83870    -1.20320     0.00000
+     1.24200    -1.20320   -10.97180     0.00000
+     0.00000     0.00000     0.00000    -6.32800
+ 
+____ END FOR J= 3 T=0 Parity=+  _____
+
+ 
+ 
+J= 4  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ (1d 5/2)(1d 3/2)    4  6
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ Sub-Matrix A
+    -7.11200
+ 
+ 
+
+ 
+ FINAL MATRIX
+    -7.11200
+ 
+____ END FOR J= 4 T=0 Parity=+  _____
+
+ 
+ 
+J= 5  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ (1d 5/2)(1d 5/2)    4  4
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ Sub-Matrix A
+   -12.12160
+ 
+ 
+
+ 
+ FINAL MATRIX
+   -12.12160
+ 
+____ END FOR J= 5 T=0 Parity=+  _____
+
+ 
+ 
+J= 0  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 0 T=0 Parity=+  _____
+
+ 
+ 
+J= 1  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 1 T=0 Parity=+  _____
+
+ 
+ 
+J= 2  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 2 T=0 Parity=+  _____
+
+ 
+ 
+J= 3  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 3 T=0 Parity=+  _____
+
+ 
+ 
+J= 4  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 4 T=0 Parity=+  _____
+
+ 
+ 
+J= 5  T=0  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 5 T=0 Parity=+  _____
+
+ 
+ 
+J= 0  T=0  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 0 T=0 Parity=-  _____
+
+ 
+ 
+J= 1  T=0  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 1 T=0 Parity=-  _____
+
+ 
+ 
+J= 2  T=0  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 2 T=0 Parity=-  _____
+
+ 
+ 
+J= 3  T=0  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 3 T=0 Parity=-  _____
+
+ 
+ 
+J= 4  T=0  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 4 T=0 Parity=-  _____
+
+ 
+ 
+J= 5  T=0  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 5 T=0 Parity=-  _____
+
+ 
+ 
+J= 0  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ (1d 5/2)(1d 5/2)    4  4
+ (2s 1/2)(2s 1/2)    5  5
+ (1d 3/2)(1d 3/2)    6  6
+ 
+ 
+ 
+ 
+ Sub-Matrix A
+   -10.71570    -3.18560    -1.32470
+    -3.18560     1.10950    -1.08350
+    -1.32470    -1.08350    -8.45260
+ 
+ Sub-Matrix C
+ 
+ Sub-Matrix B
+
+
+
+ 
+ FINAL MATRIX
+   -10.71570    -3.18560    -1.32470
+    -3.18560     1.10950    -1.08350
+    -1.32470    -1.08350    -8.45260
+ 
+____ END FOR J= 0 T=1 Parity=+  _____
+
+ 
+ 
+J= 1  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ (1d 5/2)(1d 3/2)    4  6
+ (2s 1/2)(1d 3/2)    5  6
+ 
+ 
+ 
+ 
+ Sub-Matrix A
+    -7.11200     0.00000
+     0.00000    -0.91040
+ 
+ Sub-Matrix C
+ 
+ Sub-Matrix B
+
+
+ 
+ FINAL MATRIX
+    -7.11200     0.00000
+     0.00000    -0.91040
+ 
+____ END FOR J= 1 T=1 Parity=+  _____
+
+ 
+ 
+J= 2  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ (1d 5/2)(1d 5/2)    4  4
+ (1d 5/2)(2s 1/2)    4  5
+ (1d 5/2)(1d 3/2)    4  6
+ (2s 1/2)(1d 3/2)    5  6
+ (1d 3/2)(1d 3/2)    6  6
+ 
+ 
+ 
+ 
+ Sub-Matrix A
+    -8.89800     0.28280     0.86160     0.61980     0.00000
+     0.28280    -2.62580     0.47700     0.52470     0.00000
+     0.86160     0.47700    -7.93030    -1.94100     0.00000
+     0.61980     0.52470    -1.94100    -1.92340     0.00000
+     0.00000     0.00000     0.00000     0.00000    -6.32800
+ 
+ Sub-Matrix C
+ 
+ Sub-Matrix B
+
+
+
+
+
+ 
+ FINAL MATRIX
+    -8.89800     0.28280     0.86160     0.61980     0.00000
+     0.28280    -2.62580     0.47700     0.52470     0.00000
+     0.86160     0.47700    -7.93030    -1.94100     0.00000
+     0.61980     0.52470    -1.94100    -1.92340     0.00000
+     0.00000     0.00000     0.00000     0.00000    -6.32800
+ 
+____ END FOR J= 2 T=1 Parity=+  _____
+
+ 
+ 
+J= 3  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ (1d 5/2)(2s 1/2)    4  5
+ (1d 5/2)(1d 3/2)    4  6
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ Sub-Matrix A
+    -1.71160     0.67410
+     0.67410    -6.34940
+ 
+ 
+
+
+ 
+ FINAL MATRIX
+    -1.71160     0.67410
+     0.67410    -6.34940
+ 
+____ END FOR J= 3 T=1 Parity=+  _____
+
+ 
+ 
+J= 4  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ (1d 5/2)(1d 5/2)    4  4
+ (1d 5/2)(1d 3/2)    4  6
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ Sub-Matrix A
+    -8.06010     0.00000
+     0.00000    -7.11200
+ 
+ 
+
+
+ 
+ FINAL MATRIX
+    -8.06010     0.00000
+     0.00000    -7.11200
+ 
+____ END FOR J= 4 T=1 Parity=+  _____
+
+ 
+ 
+J= 5  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 5 T=1 Parity=+  _____
+
+ 
+ 
+J= 0  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 0 T=1 Parity=+  _____
+
+ 
+ 
+J= 1  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 1 T=1 Parity=+  _____
+
+ 
+ 
+J= 2  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 2 T=1 Parity=+  _____
+
+ 
+ 
+J= 3  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 3 T=1 Parity=+  _____
+
+ 
+ 
+J= 4  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 4 T=1 Parity=+  _____
+
+ 
+ 
+J= 5  T=1  Parity=+
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 5 T=1 Parity=+  _____
+
+ 
+ 
+J= 0  T=1  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 0 T=1 Parity=-  _____
+
+ 
+ 
+J= 1  T=1  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 1 T=1 Parity=-  _____
+
+ 
+ 
+J= 2  T=1  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 2 T=1 Parity=-  _____
+
+ 
+ 
+J= 3  T=1  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 3 T=1 Parity=-  _____
+
+ 
+ 
+J= 4  T=1  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 4 T=1 Parity=-  _____
+
+ 
+ 
+J= 5  T=1  Parity=-
+ ------------------------------------------------
+ 
+ ppTDA Calc.
+ 
+ 
+ Possible Particle-Particle Configurations:
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+      No possible configurations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____ END FOR J= 5 T=1 Parity=-  _____
+
+ 
+ 

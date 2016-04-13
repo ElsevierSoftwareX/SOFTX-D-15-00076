@@ -1,0 +1,319 @@
+ Li  6
+J= 0  T=0  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 0 T=0 Parity=+  _____
+
+J= 1  T=0  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+ (1p 3/2)(1p 3/2)    2  2
+ (1p 3/2)(1p 1/2)    2  3
+ (1p 1/2)(1p 1/2)    3  3
+ 
+ Possible Hole-Hole Configurations:
+ (1s 1/2)(1s 1/2)    1  1
+ Sub-Matrix A
+    -1.20000     1.26491     0.63246
+     1.26491     4.00000     0.00000
+     0.63246     0.00000    11.00000
+ Sub-Matrix C
+   45.00000    
+ Sub-Matrix B
+    -1.05409
+     1.33333
+     0.33333
+ FINAL MATRIX
+    -1.20000     1.26491     0.63246    -1.05409
+     1.26491     4.00000     0.00000     1.33333
+     0.63246     0.00000    11.00000     0.33333
+    -1.05409     1.33333     0.33333    45.00000
+____ END FOR J= 1 T=0 Parity=+  _____
+
+J= 2  T=0  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+ (1p 3/2)(1p 1/2)    2  3
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+ Sub-Matrix A
+     4.80000
+
+ FINAL MATRIX
+     4.80000
+____ END FOR J= 2 T=0 Parity=+  _____
+
+J= 3  T=0  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+ (1p 3/2)(1p 3/2)    2  2
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+ Sub-Matrix A
+    -1.20000
+
+ FINAL MATRIX
+    -1.20000
+____ END FOR J= 3 T=0 Parity=+  _____
+
+J= 0  T=0  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 0 T=0 Parity=+  _____
+
+J= 1  T=0  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 1 T=0 Parity=+  _____
+
+J= 2  T=0  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 2 T=0 Parity=+  _____
+
+J= 3  T=0  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 3 T=0 Parity=+  _____
+
+J= 0  T=0  Parity=-
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 0 T=0 Parity=-  _____
+
+J= 1  T=0  Parity=-
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 1 T=0 Parity=-  _____
+
+J= 2  T=0  Parity=-
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 2 T=0 Parity=-  _____
+
+J= 3  T=0  Parity=-
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 3 T=0 Parity=-  _____
+
+J= 0  T=1  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+ (1p 3/2)(1p 3/2)    2  2
+ (1p 1/2)(1p 1/2)    3  3
+ 
+ Possible Hole-Hole Configurations:
+ (1s 1/2)(1s 1/2)    1  1
+ Sub-Matrix A
+    -2.00000    -1.41421
+    -1.41421    11.00000
+ Sub-Matrix C
+   45.00000    
+ Sub-Matrix B
+    -1.41421
+    -1.00000
+ FINAL MATRIX
+    -2.00000    -1.41421    -1.41421
+    -1.41421    11.00000    -1.00000
+    -1.41421    -1.00000    45.00000
+____ END FOR J= 0 T=1 Parity=+  _____
+
+J= 1  T=1  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+ (1p 3/2)(1p 1/2)    2  3
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+ Sub-Matrix A
+     6.00000
+
+ FINAL MATRIX
+     6.00000
+____ END FOR J= 1 T=1 Parity=+  _____
+
+J= 2  T=1  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+ (1p 3/2)(1p 3/2)    2  2
+ (1p 3/2)(1p 1/2)    2  3
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+ Sub-Matrix A
+    -0.40000    -0.56569
+    -0.56569     5.20000
+
+
+ FINAL MATRIX
+    -0.40000    -0.56569
+    -0.56569     5.20000
+____ END FOR J= 2 T=1 Parity=+  _____
+
+J= 3  T=1  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 3 T=1 Parity=+  _____
+
+J= 0  T=1  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 0 T=1 Parity=+  _____
+
+J= 1  T=1  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 1 T=1 Parity=+  _____
+
+J= 2  T=1  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 2 T=1 Parity=+  _____
+
+J= 3  T=1  Parity=+
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 3 T=1 Parity=+  _____
+
+J= 0  T=1  Parity=-
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 0 T=1 Parity=-  _____
+
+J= 1  T=1  Parity=-
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 1 T=1 Parity=-  _____
+
+J= 2  T=1  Parity=-
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 2 T=1 Parity=-  _____
+
+J= 3  T=1  Parity=-
+ -----------------------------------------------
+ ppRPA Calc.
+ 
+ Possible Particle-Particle Configurations:
+      No possible configurations
+ 
+ Possible Hole-Hole Configurations:
+      No possible configurations
+____ END FOR J= 3 T=1 Parity=-  _____
+

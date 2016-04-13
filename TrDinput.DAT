@@ -1,0 +1,88 @@
+6 2 rpa 1.7 7    calculate Transition Charge Density, based on HO single-particle wave function
+2 1 0 1    [Jf Tf parity(0=+ve and 1=-ve) Kf:(state number)]  final state 
+0 1 0 1    [Ji Ti parity(0=+ve and 1=-ve) Kf:(state number)]  initial ground state 
+1.0 0.0    				proton and neutron effective charges
+1                          		1=read plot parametes, 0=skip plot
+Transition Charge Density      		                    		
+r(fm)		            				 			
+Density (e/fm^3)		            		
+1                          		option: 0=automatic graph parameters, 1=input parameters
+0.0 7.0 0.0 1.0 0.0 0.016 0.0 0.002  	XA, XE, XOR, XSTEP, YA, YE, YOR, YSTEP
+-1  3			   		XNDIG, YNDIG (number of digits after the decimal point displayed in labels: -1,0,1,2,..
+1                          		1=grid on, 0=grid off
+xwin                       		file type: xwin (on screen),pdf,eps,ps,gif,tiff,png,bmp
+red			   		color: red,blue,fore(black),green,yellow
+0   10	
+
+
+
+
+
+
+
+Other examples below (if you need cut and paste):
+
+
+
+18 8 rpa 1.8 7    calculate Transition Charge Density, based on HO single-particle wave function
+2 1 0 1    [Jf Tf parity(0=+ve and 1=-ve) Kf:(state number)]  final state 
+0 1 0 1    [Ji Ti parity(0=+ve and 1=-ve) Kf:(state number)]  initial ground state 
+1.5 0.5    proton and neutron effective charges
+1                          1=read plot parametes, 0=skip plot
+Transition Charge Density      		                    		
+r(fm)		            				 			
+Density (e/fm3)		            		
+1                          		   option: 0=automatic graph parameters, 1=input parameters
+0.0 7.0 0.0 1.0 0.0 0.02 0.0 0.005      XA, XE, XOR, XSTEP, YA, YE, YOR, YSTEP
+-1  5			                   XNDIG, YNDIG (number of digits after the decimal point displayed in labels: -1,0,1,2,..
+0                                          1=grid on, 0=grid off
+xwin                                       file type: xwin (on screen),pdf,eps,ps,gif,tiff,png,bmp
+red			                   color: red,blue,fore(black),green,yellow
+0   10			                   tcik(0=off and 1=on), No of ticks
+
+		   		tcik(0=off and 1=on), No of ticks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+102 50 tda 1.7 7 calculate Transition Charge Density, based on HO single-particle wave function
+2 1 1 1    [Jf Tf parity(0=+ve and 1=-ve) Kf:(state number)]  final state 
+0 1 1 1    [Ji Ti parity(0=+ve and 1=-ve) Kf:(state number)]  initial ground state 
+1.0 0.0    proton and neutron effective charges
+1                          1=read plot parametes, 0=skip plot
+Transition Charge Density      		                    		
+r(fm)		            				 			
+Density (e/fm3)		            		
+1                          option: 0=automatic graph parameters, 1=input parameters
+0.0 1.0 0.0 0.002           xstart,xincrement,ystart,yincrement
+-1  3			   XNDIG, YNDIG (number of digits after the decimal point displayed in labels: -1,0,1,2,..
+0                          1=grid on, 0=grid off
+xwin                       file type: xwin (on screen),pdf,eps,ps,gif,tiff,png,bmp
+red			   color: red,blue,fore(black),green,yellow
+0   10			   tcik(0=off and 1=on), No of ticks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
